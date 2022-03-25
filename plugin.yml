@@ -1,0 +1,8 @@
+name: gFake
+version: 1.0
+main: me.guincky.fake.Main
+author: Guincky
+description: /fake
+commands:
+  fake:
+  fakereset:
